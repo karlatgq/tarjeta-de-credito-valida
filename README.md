@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Tarjeta Crédito Valida #
 ## Crea una web que pida, por medio de un prompt(), el número de una tarjeta de crédito y confirme su validez según el algoritmo de Luhn. ##
 ### Pseudocódigo 
@@ -12,3 +13,7 @@
 9. Fin.
 
 
+=======
+##  tarjeta-de-credito-valida
+### pseudocodigo
+>>>>>>> 86364818fe65f460a42e94250ea17fe7cae06c59
